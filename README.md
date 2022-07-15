@@ -21,3 +21,6 @@ The workshop will go deep on the tooling and process required to implement a mod
 
 Products covered are Power Apps, Power Automate, APIM, Azure Functions, Azure DevOps, Visual Studio, VS Code, GitHub Actions etc. 
 
+- Get hands-on experience working with Power Apps and Azure services  
+- Learn how to apply what you learn to build and modernize your organization’s LoB applications with low-code 
+- Discover how to apply low-code and pro-code tools and develop fusion solutions to your business 
